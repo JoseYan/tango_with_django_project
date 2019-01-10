@@ -1,0 +1,13 @@
+What I have done by the end of Chapter3:
+1. Tested the environment
+2. Started the Django project
+3. Created a new app: rango
+4. Created a view
+5. Mapped urls
+6. Done the Excersices for this chapter:
+	* revised the procedures
+	* created a new view method: about 
+	* mapped the about view to /rango/about
+	* in the index view incuded a link to the about page
+	* in the HttpResponse in the about view included a link back to the main page.
+7. Run the automated tests for Chapter3 and passed them.
