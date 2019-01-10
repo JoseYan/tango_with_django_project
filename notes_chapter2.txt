@@ -1,0 +1,12 @@
+What I have done by the end of Chapter2:
+
+1. Installed python 3.7.1
+2. Created project directory
+3. Set up virtual environment
+4. Installed Django1.11.17
+5. Installed Pillow
+6. Installed pip
+7. Set up Anaconda
+8. Set up my GIthub Account ; and linked it to my local repository
+9. Installed Pycharm IDE
+10. Set up the Environment following the instructions on Moodle (including creating a ".gitignore" file)
