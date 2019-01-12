@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+{% load staticfiles %} <!-- New line -->
+
+    <head>
+        <title>About</title>
+    </head>
+
+    <body>
+        <h1>Chapter4</h1>
+        <div>
+            This tutorial has been put together by Jinghua YAN. <br /> 
+            <strong>{{ boldmessage }}</strong><br />
+        </div>
+        <div>
+            <img src="{% static "images/about.jpg" %}"
+                 alt="Picture of About" /> <!-- New line -->
+        </div>
+	<div>
+		<img src="{{ MEDIA_URL}}cat.jpg" /
+			alt="Picture of a cat" /><!-- New line -->
+    </body>
+
+</html>
+

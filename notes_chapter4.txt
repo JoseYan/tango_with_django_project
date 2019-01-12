@@ -1,0 +1,12 @@
+What I have done by the end of Chapter4:
+
+1. Created a template
+2. Created a new view within rango's views.py file
+3. Served a static content: rango.jpg
+4. Completed the exercises for this chapter:
+	* Modified the about page using about.html
+	* Served a media content: cat.jpg
+	* Used render to generate the rendered response
+
+I passed the tests for Chapter4;
+What is more, as I have modified the about page, the previous tests for chapter3 fail this time.
