@@ -1,0 +1,15 @@
+What I have done by the end of Chapter5:
+
+1. Set up a model, in which there are Category and Page classes
+2. Made migrations and migrated database
+3. Created superuser
+4. Used Django shell to interact directly with Django models
+5. Configured the admin interface
+6. Created a Population Script-- learnt a lot!
+7. Completed the Exercises:
+	* Added two attributes: views and likes to the Category model
+	* Made the migrations for the rango app and then migrated the database to commit the changes
+	* Deleted and recreated the database
+	* Complete part 2 and 7 of the official Django tutorial. (not done yet)
+	* Customise the admin interface(not done yet)
+8. Passed the automated tests for this chapter
